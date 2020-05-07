@@ -21,7 +21,8 @@ https://www.scivision.dev/python-windows-visual-c-14-required/
 
 ## 2. Spinoza (ETICA)
 
-En comparación a la Etica de Spinoza el resto de libros parecen cuentos infantiles. Fue publicada en 1677 tras la muerte del autor.
+En comparación a la Etica de Spinoza el resto de libros parecen cuentos infantiles.   
+Fue publicada en 1677 tras la muerte del autor.
 
 Abunda la información sobre Spinoza en internet, como es obvio. En esta pequeña disgresión lingüistica (si así puede llamarse) sobre el libro spinozista se ha tomado el texto de:
 
