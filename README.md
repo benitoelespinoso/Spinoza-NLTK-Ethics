@@ -74,7 +74,7 @@ O visto de otro modo:
 
 ## 2. Dispersion de términos
 
-También a través de la ejecución del [script](src/spinoza.py) podemos ver cómo se distribuyen ciertos términos a lo largo del texto:
+También a través de la ejecución del [anterior script](src/spinoza.py) podemos ver cómo se distribuyen ciertos términos a lo largo del texto:
 
 ![dispersion](img/dispersion_1.png)
 
@@ -91,9 +91,9 @@ Los bigramas del texto también se calculan, los mas frecuentes:
 
 Donde se ven ciertas asociaciones curiosas: 
 
-*pleasure_pain* (de ciertas resonancias moralizantes) 
-*external_cause* (en el apologeta de la inmanencia)
-*human_body* asi como *human_mind* (que tiene un fuerte sabor cartesiano)
+*pleasure_pain* (de ciertas resonancias moralizantes)   
+*external_cause* (en el apologeta de la inmanencia)  
+*human_body* asi como *human_mind* (que tiene un fuerte sabor cartesiano)  
 
 Los menos frecuentes:
 
@@ -101,8 +101,8 @@ Los menos frecuentes:
 
 Donde resultan curiosos:
 
-*hope_fear* (jaja, no se puede ser más determinista!!)
-*desire_arising* (¿incontinencia como tendencia natural?)
+*hope_fear* (jaja, no se puede ser más determinista!!)  
+*desire_arising* (¿incontinencia como tendencia natural?)  
 
 
 
@@ -136,24 +136,24 @@ Se muestran cosas como:
 
  - no hay power en dios
 
-***************** Similar: God **********************************
-it nature which the things man reason he substance himself love pain
-thought knowledge them eternity this virtue hatred one
-***************************************************
+***************** Similar: God **********************************  
+it nature which the things man reason he substance himself love pain  
+thought knowledge them eternity this virtue hatred one  
+
 
  - La potencia es algo asociado a lo natural (una especie de segundad acepción de dios)
 
- ***************** Similar: power **********************************
-nature body mind and desire essence existence idea knowledge love
-pleasure cause causes part faculty emotion thing intellect imagination
-emotions
+ ***************** Similar: power **********************************  
+nature body mind and desire essence existence idea knowledge love  
+pleasure cause causes part faculty emotion thing intellect imagination  
+emotions  
 
 
 
 Si modificamos la ruta de input para ejecutar sobre (por ejemplo) las proposiciones:
 
-***************** Similar: reason **********************************
-pleasure god knowledge what ideas activity pain character eternity
+***************** Similar: reason **********************************  
+pleasure god knowledge what ideas activity pain character eternity  
 
 - se exhibe el propósito del libro: fundamentar las razones de lo placentero (y de lo reprobable)
 
@@ -163,7 +163,7 @@ pleasure god knowledge what ideas activity pain character eternity
 
 Se puede visualizar la diversidad léxica del texto ejectuando el [script](src/etic_div_lexi.py)
 
-Se cambia el input para obtener los cálculos tambié para las proposiciones y para las demostraciones, así como para el texto entero:
+Se cambia el input para obtener los cálculos también para las proposiciones y para las demostraciones, así como para el texto entero:
 
 Este es el diagrama para todo el texto:
 
@@ -173,9 +173,9 @@ Y para las partes del libro:
 
 ![div_lex_cap](img/div_lex_capitulos_regre.png)
 
-El capítulo 2 es el más rico en léxico, mientras que la parte 4ª tiene mas términos redundantes
+Los capítulos 2 y 3 tienen más riqueza léxica, mientras que la parte 4ª tiene mas términos redundantes
 
-Si se comparan los cálculos relativos a las proposiciones y demostraciones, no se observan grandes diferencias, pese a ser mayor la correspondiente a las demostraciones. Es tambien muy similar a la encontrada para el texto completo.
+Si se comparan los cálculos relativos a las proposiciones y demostraciones, se observa (como el lógico) que la diversidad en las demostraciones es mayor a la correspondiente a las proposiciones. 
 
 ![compar_div_lex](img/compar_div_lex.png)
 
@@ -199,6 +199,7 @@ El exámen por capítulos es el siguiente:
 
 ![dens_lex_cap](img/dens_lex_adj_cap.png)
 
+La proporcionalidad del texto entre categorías gramaticales (N, V, ADJ, ADV) es cuasi-constante, como se aprecia en que las pendientes (slope) son muy parecidas. Solo para N es un poco mayor
 
 ![dens_lex_mas](img/dens_lex_mas.png)
 
