@@ -221,3 +221,23 @@ La comparativa habitual entre proposiciones/demostraciones es:
 
 De nuevo evidencia que las demostraciones son más "literarias" (nótese que la escala en Y de las demostraciones es siempre más alta, para unas *slopes* similares).
 
+## 10. Verbos modales
+
+Es común rastrear el uso de los verbos modales en un texto, porque suelen ir asociados a información del tipo: ¿se habla o indica de forma obligatoria? ¿O solo se recomienda? ¿Es una sugerencia? ¿O se dice la manera prescriptiva? ¿o descriptiva? ¿O necesaria?
+
+Ejecutando [otro script](src/etic_modal.py) obtenemos:
+
+![modal](img/modal_cap.png)
+
+que parece indicar (véase *must*) que los 2 primeros capítulos versan sobre lo necesario y obligatorio. Y en los capítulos siguientes (véase *may*) se indaga sobre lo posible.
+
+Si nos ceñimos a prop/demost obtenemos:
+
+![modal_prop](img/modal_prop.png)
+
+Y demostraciones:
+
+![modal_demost](img/modal_demost.png)
+
+Parece que no se usan los modos de mayor obligatoriedad (sino *will, can, may*)
+
