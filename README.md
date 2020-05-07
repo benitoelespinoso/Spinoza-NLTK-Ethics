@@ -206,3 +206,18 @@ La proporcionalidad del texto entre categorías gramaticales (N, V, ADJ, ADV) es
 
 
 ## 8. Parts of speech
+
+
+Se ejecuta el [script](src/etic_part_speech.py)
+
+Como decíamos anteriormente soblre el *equilibrio* del texto gramaticalmente, las relaciones entre (N y ADJ) y entre (V y ADV) son muy similares.
+
+![speech](img/speech_entera.png)
+
+
+La comparativa habitual entre proposiciones/demostraciones es:
+
+![speech](img/comparativa_speech.png)
+
+De nuevo evidencia que las demostraciones son más "literarias" (nótese que la escala en Y de las demostraciones es siempre más alta, para unas slope similares).
+
