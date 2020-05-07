@@ -219,5 +219,5 @@ La comparativa habitual entre proposiciones/demostraciones es:
 
 ![speech](img/comparativa_speech.png)
 
-De nuevo evidencia que las demostraciones son más "literarias" (nótese que la escala en Y de las demostraciones es siempre más alta, para unas slope similares).
+De nuevo evidencia que las demostraciones son más "literarias" (nótese que la escala en Y de las demostraciones es siempre más alta, para unas *slopes* similares).
 
